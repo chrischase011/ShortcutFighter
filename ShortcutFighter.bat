@@ -3,9 +3,8 @@
 Rem This program recover files that has became shortcut files
 
 echo Welcome to Shortcut fighter where we will recover 
-echo Programmed by: Christopher Robin Chase
-echo.
 echo your files that has became a shortcut files
+echo Programmed by: Christopher Robin Chase
 echo.
 echo.
 echo First, identify what is the directory name of your USB Flash drive or Hard drive
