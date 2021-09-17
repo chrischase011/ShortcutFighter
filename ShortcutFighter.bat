@@ -16,8 +16,8 @@ set /p n="What directory drive?: "
 set path=n
 if [%n%]==[] (echo You should input your directory drive 
 goto a) else (
-attrib -h -r -s /s /d %n%*.*
 timeout /t 3 /NoBreak
+attrib -h -r -s /s /d %n%*.*
 goto c)
 
 :c
