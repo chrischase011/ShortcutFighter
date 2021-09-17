@@ -1,9 +1,9 @@
 @echo off
 
 Rem This program recover files that has became shortcut files
-echo Please Run as Administrator
-echo.
+
 echo Welcome to Shortcut fighter where we will recover 
+echo Programmed by: Christopher Robin Chase
 echo.
 echo your files that has became a shortcut files
 echo.
